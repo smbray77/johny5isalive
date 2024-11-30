@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kaelen Drakethorn</title>
+</head>
+<body>
+    <h1>Kaelen Drakethorn</h1>
+
+    <h2>Basic Information</h2>
+    <ul>
+        <li><strong>Full Name:</strong> Kaelen Drakethorn</li>
+        <li><strong>Aliases/Nicknames:</strong> The Purifier</li>
+        <li><strong>Role in the Story:</strong> Main Character; Member of Grolm’s Party</li>
+        <li><strong>Affiliation:</strong> Wasteland Purifiers</li>
+        <li><strong>Current Status:</strong> Alive</li>
+    </ul>
+
+    <h2>Appearance</h2>
+    <ul>
+        <li><strong>Species/Race:</strong> Elf (dark-skinned, ranger archetype)</li>
+        <li><strong>Gender:</strong> Male</li>
+        <li><strong>Age:</strong> Early 30s</li>
+        <li><strong>Height:</strong> 6 feet</li>
+        <li><strong>Build:</strong> Lean but muscular, built for endurance</li>
+        <li><strong>Hair:</strong> Black, often tied back in a simple knot</li>
+        <li><strong>Eyes:</strong> Piercing amber, glowing faintly when near blight or UMs</li>
+        <li><strong>Other Features:</strong>
+            <ul>
+                <li>A scar running across his left cheek, a reminder of a close encounter with a UM.</li>
+                <li>Tribal tattoos along his arms, representing his purifier training and connection to the land.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h2>Personality</h2>
+    <ul>
+        <li><strong>Traits:</strong> Analytical and resourceful, determined but reserved, deeply empathetic beneath a stoic exterior.</li>
+        <li><strong>Strengths:</strong> Exceptional tracker and scout, calm under pressure, mastery of fire and crystal-based tools.</li>
+        <li><strong>Flaws/Weaknesses:</strong> Prone to self-doubt, haunted by past losses, overanalyzes situations, leading to hesitation.</li>
+        <li><strong>Core Motivation:</strong> To protect others from the horrors of the blight and UMs, hoping to one day leave the role of “clean-up” behind and become a true hero.</li>
+        <li><strong>Fears:</strong>
+            <ul>
+                <li>Becoming another nameless purifier who dies forgotten in the wastelands.</li>
+                <li>The possibility that the UMs are an unstoppable force and all efforts are futile.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h2>Background</h2>
+    <ul>
+        <li><strong>Origin:</strong> Born in the southern forests, shielded from direct effects of the meteor strike by natural barriers. Forced underground during the nuclear winter.</li>
+        <li><strong>Family:</strong> Lost parents and siblings to post-meteor devastation; survivalist upbringing prepared him for the purifiers’ harsh reality.</li>
+        <li><strong>Training as a Purifier:</strong>
+            <ul>
+                <li>Trained to survive in any biome and specialize in navigation, tracking, and efficient combat.</li>
+                <li>Equipped with tools to monitor and manage blight exposure, understanding his role has a finite lifespan.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h2>Role in the Story</h2>
+    <ul>
+        <li><strong>First Appearance:</strong> Chapter 3 of Book 1</li>
+        <li><strong>Major Contributions:</strong> Provides survival expertise, strategic insights, and plays a key role in uncovering the UMs’ origins.</li>
+        <li><strong>Alliances/Relationships:</strong>
+            <ul>
+                <li>Develops camaraderie with Grolm, drawn to the troll’s unorthodox heroism.</li>
+                <li>Trusted confidant of the healer, sharing a mutual understanding of loss and duty.</li>
+            </ul>
+        </li>
+        <li><strong>Conflicts:</strong> Struggles with kingdom leadership dismissing purifiers’ warnings; haunted by guilt over past failures.</li>
+    </ul>
+
+    <h2>Abilities/Skills</h2>
+    <ul>
+        <li><strong>Physical Abilities:</strong> Exceptional endurance, sharp eyesight and hearing.</li>
+        <li><strong>Technical Skills:</strong> Mastery of fire-based tools and weapons, skilled in blight detection and mitigation using crystals.</li>
+        <li><strong>Unique Talents:</strong> Intuitive understanding of UM behavior, allowing him to predict their movements.</li>
+        <li><strong>Limitations:</strong> Lacks the raw strength of warriors or the advanced magic of mages.</li>
+    </ul>
+
+    <h2>Equipment</h2>
+    <ul>
+        <li><strong>Weapons:</strong> Enchanted longbow, fire crystal dagger.</li>
+        <li><strong>Tools/Gear:</strong> Fire gauntlet for destroying cocoons, blight-detection crystal pendant.</li>
+        <li><strong>Notable Items:</strong> A leather bracelet from his younger sister, a reminder of his family.</li>
+    </ul>
+
+    <h2>Quotes</h2>
+    <p><em>“We measure our lives in thresholds—blight exposure, battles fought, cocoons burned. It’s not a matter of if we break, just when.”</em></p>
+
+    <h2>Notes</h2>
+    <ul>
+        <li>The purifiers’ systematic approach to handling blight exposure highlights the cost of their duty.</li>
+        <li>Kaelen’s practical nature and quiet hope contrast with Grolm’s larger-than-life optimism, creating a dynamic partnership.</li>
+    </ul>
+
+    <hr>
+    <p><a href="index.html">Back to Index</a></p>
+</body>
+</html>
